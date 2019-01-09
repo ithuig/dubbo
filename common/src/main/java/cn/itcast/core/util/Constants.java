@@ -20,4 +20,5 @@ public interface Constants {
     public final static String CART_LIST_CARTLIST= "cartList";
     //我哈哈
     //111
+    //老王爱抽烟
 }
