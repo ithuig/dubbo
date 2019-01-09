@@ -21,6 +21,8 @@ public class ItemDeleteListener implements MessageListener {
             saveManageToSolr.deleteSolr(Long.parseLong(text));
         } catch (JMSException e) {
             e.printStackTrace();
+
+
         }
     }
 }
