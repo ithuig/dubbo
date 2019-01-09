@@ -18,4 +18,5 @@ public interface Constants {
 
     public final static String CART_LIST_PAGLOG = "payLog";
     public final static String CART_LIST_CARTLIST= "cartList";
+    //我哈哈
 }
