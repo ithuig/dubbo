@@ -2,6 +2,7 @@ package cn.itcast.core.util;
 
 /**
  * 常量接口
+ *
  */
 public interface Constants {
 
@@ -21,4 +22,5 @@ public interface Constants {
     //我哈哈
     //111
     //老王爱抽烟
+    //齐晨爱看簧片
 }
