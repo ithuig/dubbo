@@ -23,7 +23,7 @@
         <module>web-user</module>
         <module>solr-util</module>
         <module>service-users</module>
-        <module>../SpringBootDemo</module>
+        <!--<module>../SpringBootDemo</module>-->
     </modules>
     <!-- 集中定义依赖版本号 -->
     <properties>
